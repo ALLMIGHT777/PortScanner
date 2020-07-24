@@ -7,7 +7,6 @@
  *
  * @author Ankit Dwivedi
  */
-//package com.gizmo385.portscanner.gui;
 
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -31,7 +30,7 @@ import javax.swing.event.ChangeListener;
 
 /**
  * A network port scanner with GUI
- * @author gizmo385
+ *
  *
  */
 public class PortScanner extends JFrame implements ActionListener, ChangeListener {
